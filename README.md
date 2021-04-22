@@ -1,0 +1,2 @@
+# CoreAuthWithDataRepo
+Angular Api
